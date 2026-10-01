@@ -10,8 +10,8 @@ export const PORTFOLIO_DATA = {
     expectedGraduation: "2027",
     phone: "+91-7879424944",
     email: "patidarsaloni216@gmail.com",
-    linkedin: "https://linkedin.com/in/saloni-patidar", // Replace with your actual URL
-    github: "https://github.com/saloni-patidar",     // Replace with your actual URL
+    linkedin: "https://www.linkedin.com/in/saloni-patidar-6197a02b6", // Replace with your actual URL
+    github: "https://github.com/patidarsaloni216-svg",     // Replace with your acual URL
     resumeUrl: "/Saloni_Patidar_Resume.pdf",        // Place your PDF in the public folder as Saloni_Patidar_Resume.pdf
     tagline: "I build practical AI systems that reason, retrieve, collaborate and respond.",
     careerObjective:
